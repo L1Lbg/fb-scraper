@@ -1,79 +1,79 @@
 Firma de Contabilidad
 Agencia de Publicidad
-Concesionario de Equipos Agr�colas
-Tienda de Antig�edades
+Concesionario de Equipos Agricolas
+Tienda de Antiguedades
 Tienda de Ropa
-Servicio de Reparaci�n de Electrodom�sticos
+Servicio de Reparacion de Electrodomesticos
 Firma de Arquitectura
-Galer�a de Arte
-Taller de Carrocer�a
-Concesionario de Autom�viles
-Taller de Reparaci�n de Autom�viles
-Panader�a
+Galeria de Arte
+Taller de Carroceria
+Concesionario de Automoviles
+Taller de Reparacion de Automoviles
+Panaderia
 Banco
 Bar
-Barber�a
-Sal�n de Belleza
+Barberia
+Salon de Belleza
 Bed and Breakfast
-Librer�a
+Libreria
 Boutique
-Cervecer�a
-Contratista de Construcci�n
-Carnicer�a
-Cafeter�a
+Cerveceria
+Contratista de Construccion
+Carniceria
+Cafeteria
 Servicio de Alquiler de Coches
 Lavado de Coches
-Servicio de Carpinter�a
+Servicio de Carpinteria
 Servicio de Catering
-Cl�nica Quiropr�ctica
+Clinica Quiropractica
 Servicio de Limpieza
-Servicio de Reparaci�n de Computadoras
-Firma de Consultor�a
-Empresa de Construcci�n
-Cl�nica de Cirug�a Est�tica
-Guarder�a
-Cl�nica Dental
+Servicio de Reparacion de Computadoras
+Firma de Consultoria
+Empresa de Construccion
+Clinica de Cirugia Estetica
+Guarderia
+Clinica Dental
 Grandes Almacenes
-Tintorer�a
-Tienda de Electr�nica
-Firma de Ingenier�a
-Servicio de Planificaci�n de Eventos
+Tintoreria
+Tienda de Electronica
+Firma de Ingenieria
+Servicio de Planificacion de Eventos
 Mercado de Agricultores
-Firma de Asesor�a Financiera
+Firma de Asesoria Financiera
 Gimnasio
-Florister�a
+Floristeria
 Tienda de Muebles
 Gasolinera
 Supermercado
-Peluquer�a
-Ferreter�a
-Cl�nica de Salud
-Tienda de Decoraci�n del Hogar
+Peluqueria
+Ferreteria
+Clinica de Salud
+Tienda de Decoracion del Hogar
 Tienda de Mejoras para el Hogar
 Hotel
 Agencia de Seguros
-Firma de Dise�o de Interiores
-Joyer�a
+Firma de Diseno de Interiores
+Joyeria
 Servicio de Paisajismo
-Servicio de Lavander�a
+Servicio de Lavanderia
 Firma de Abogados
 Cerrajero
 Agencia de Marketing
-Cl�nica de Terapia de Masaje
-Mec�nico
-Cl�nica M�dica
-Tienda de Tel�fonos M�viles
+Clinica de Terapia de Masaje
+Mecanico
+Clinica Medica
+Tienda de Telefonos Moviles
 Empresa de Mudanzas
-Tienda de M�sica
-Sal�n de U�as
-Cl�nica de Optometr�a
+Tienda de Musica
+Salon de Unas
+Clinica de Optometria
 Servicio de Control de Plagas
-Servicio de Peluquer�a para Mascotas
+Servicio de Peluqueria para Mascotas
 Tienda de Mascotas
 Farmacia
-Estudio de Fotograf�a
-Servicio de Fontaner�a
-Servicio de Impresi�n
+Estudio de Fotografia
+Servicio de Fontaneria
+Servicio de Impresion
 Escuela Privada
 Agencia Inmobiliaria
 Agencia de Reclutamiento
@@ -81,425 +81,506 @@ Restaurante
 Servicio de Techado
 Escuela
 Servicio de Seguridad
-Zapater�a
+Zapateria
 Empresa de Desarrollo de Software
 Spa
-Tienda de Art�culos Deportivos
-Servicio de Sastrer�a
+Tienda de Articulos Deportivos
+Servicio de Sastreria
 Estudio de Tatuajes
 Servicio de Taxi
-Firma de Consultor�a Tecnol�gica
-Tienda de Neum�ticos
+Firma de Consultoria Tecnologica
+Tienda de Neumaticos
 Agencia de Turismo
-Jugueter�a
+Jugueteria
 Agencia de Viajes
-Cl�nica Veterinaria
-Agencia de Dise�o Web
-Servicio de Planificaci�n de Bodas
+Clinica Veterinaria
+Agencia de Diseno Web
+Servicio de Planificacion de Bodas
 Bodega
 Estudio de Yoga
 Empresa Aeroespacial
 Refugio de Animales
-Servicio de Contestaci�n Telef�nica
+Servicio de Contestacion Telefonica
 Tienda de Suministros de Arte
 Casa de Subastas
-Reparaci�n de Cristales de Autom�viles
+Reparacion de Cristales de Automoviles
 Servicio de Fianzas
 Tienda de Globos
-Sal�n de Banquetes
+Salon de Banquetes
 Servicio de Bartender
-Servicio de Remodelaci�n de Ba�os
-Tienda de Reparaci�n de Bicicletas
+Servicio de Remodelacion de Banos
+Tienda de Reparacion de Bicicletas
 Tienda de Cortinas y Persianas
 Concesionario de Barcos
 Servicio de Contabilidad
-Fabricaci�n de Muebles
+Fabricacion de Muebles
 Centro de Llamadas
 Tienda de Velas
 Tienda de Dulces
 Servicio de Limpieza de Alfombras
 Tienda de Alfombras
 Servicio de Adelantos en Efectivo
-Reparaci�n de Tel�fonos Celulares
+Reparacion de Telefonos Celulares
 Tienda de Quesos
-Chocolater�a
-Granja de �rboles de Navidad
-Servicio de Reparaci�n de Relojes
-Numism�tica
+Chocolateria
+Granja de Arboles de Navidad
+Servicio de Reparacion de Relojes
+Numismatica
 Agencia de Cobros
 Tienda de Computadoras
 Contratista de Concreto
-Alquiler de Equipos de Construcci�n
+Alquiler de Equipos de Construccion
 Tienda de Conveniencia
-Servicio de Redacci�n
-Servicio de Mensajer�a
-Servicio de Asesor�a de Cr�dito
+Servicio de Redaccion
+Servicio de Mensajeria
+Servicio de Asesoria de Credito
 Estudio de Danza
-Servicio de Construcci�n de Terrazas
+Servicio de Construccion de Terrazas
 Servicio de Entrega
 Nutricionista
 Servicio de DJ
 Servicio de Entrenamiento de Perros
-Escuela de Conducci�n
-Tienda de Comercio Electr�nico
+Escuela de Conduccion
+Tienda de Comercio Electronico
 Electricista
 Servicio de Bordado
 Agencia de Empleo
-Firma de Consultor�a Ambiental
-Servicio de Planificaci�n Patrimonial
+Firma de Consultoria Ambiental
+Servicio de Planificacion Patrimonial
 Lugar de Eventos
-Firma de B�squeda Ejecutiva
+Firma de Busqueda Ejecutiva
 Servicio de Expediciones
 Tienda de Telas
-Servicio de Asesor�a Familiar
-Servicio de Instalaci�n de Cercas
-Compa��a de Producci�n de Pel�culas
-Servicio de Protecci�n Contra Incendios
+Servicio de Asesoria Familiar
+Servicio de Instalacion de Cercas
+Compania de Produccion de Peliculas
+Servicio de Proteccion Contra Incendios
 Charter de Pesca
 Tienda de Pisos
-Cami�n de Comida
+Camion de Comida
 Servicio de Enmarcado
-Servicio de Redacci�n Freelance
+Servicio de Redaccion Freelance
 Funeraria
-Reparaci�n de Puertas de Garaje
-Centro de Jardiner�a
+Reparacion de Puertas de Garaje
+Centro de Jardineria
 Tienda de Regalos
-Servicio de Reparaci�n de Vidrios
+Servicio de Reparacion de Vidrios
 Campo de Golf
-Agencia de Dise�o Gr�fico
+Agencia de Diseno Grafico
 Invernadero
 Servicio de Limpieza de Canalones
 Servicio de Mantenimiento
-Servicio de Calefacci�n y Refrigeraci�n
+Servicio de Calefaccion y Refrigeracion
 Tienda de Medicina Herbaria
 Servicio de Cuidado de la Salud a Domicilio
 Establo de Alojamiento de Caballos
 Servicio de HVAC
-Cl�nica de Hipnoterapia
-Negocio de Importaci�n/Exportaci�n
+Clinica de Hipnoterapia
+Negocio de Importacion/Exportacion
 Servicio de Paisajismo de Interiores
 Proveedor de Servicios de Internet
 Firma de Inversiones
-Servicio de Soporte T�cnico
-Servicio de Eliminaci�n de Basura
-Servicio de Remodelaci�n de Cocinas
-Servicio de Cuidado de C�sped
+Servicio de Soporte Tecnico
+Servicio de Eliminacion de Basura
+Servicio de Remodelacion de Cocinas
+Servicio de Cuidado de Cesped
 Coach de Vida
-Tienda de Iluminaci�n
+Tienda de Iluminacion
 Servicio de Limusinas
-Servicio de Cerrajer�a
+Servicio de Cerrajeria
 Revista
 Servicio de Correo
 Empresa de Manufactura
 Estudio de Artes Marciales
 Tienda de Colchones
-Servicio de Facturaci�n M�dica
-Servicio de Fabricaci�n de Metales
-Microcervecer�a
+Servicio de Facturacion Medica
+Servicio de Fabricacion de Metales
+Microcerveceria
 Agencia de Modelos
 Corredor de Hipotecas
 Concesionario de Motocicletas
 Servicio de Mudanza y Almacenamiento
-Escuela de M�sica
-Organizaci�n Sin Fines de Lucro
+Escuela de Musica
+Organizacion Sin Fines de Lucro
 Residencia de Ancianos
 Tienda de Suministros de Oficina
 Servicio de Empaque
 Tienda de Pintura
 Servicio de Pintura
 Servicio de Alquiler de Fiestas
-Servicio de Pavimentaci�n
-Servicio de N�mina
+Servicio de Pavimentacion
+Servicio de Nomina
 Chef Personal
 Servicio de Alojamiento para Mascotas
 Servicio de Cuidado de Mascotas
-Cl�nica de Terapia F�sica
+Clinica de Terapia Fisica
 Estudio de Piercing
 Vivero de Plantas
 Servicio de Limpieza de Piscinas
-Empresa de Administraci�n de Propiedades
-Firma de Relaciones P�blicas
+Empresa de Administracion de Propiedades
+Firma de Relaciones Publicas
 Editorial
-Servicio de Pruebas de Rad�n
-Estudio de Grabaci�n
+Servicio de Pruebas de Radon
+Estudio de Grabacion
 Centro de Reciclaje
-Centro de Sanaci�n Reiki
-Servicio de Remodelaci�n
+Centro de Sanacion Reiki
+Servicio de Remodelacion
 Concesionario de RV
-Tienda de S�ndwiches
-Servicio de Serigraf�a
-Servicio de Fosas S�pticas
+Tienda de Sandwiches
+Servicio de Serigrafia
+Servicio de Fosas Septicas
 Servicio de Alcantarillado
-Tienda de Se�alizaci�n
+Tienda de Senalizacion
 Tienda de Skate
-Empresa de Energ�a Solar
-Cl�nica de Terapia del Habla
-Instalaci�n de Almac�n
+Empresa de Energia Solar
+Clinica de Terapia del Habla
+Instalacion de Almacen
 Contratista de Estuco
-Servicio de Topograf�a
-Instalaci�n de Piscinas
-Sal�n de Bronceado
+Servicio de Topografia
+Instalacion de Piscinas
+Salon de Bronceado
 Servicio de Impuestos
 Empresa de Telecomunicaciones
 Servicio de Remolque
-Servicio de �rboles
+Servicio de Arboles
 Empresa de Transporte
 Tienda de Uniformes
-Servicio de Tapicer�a
+Servicio de Tapiceria
 Alquiler de Vacaciones
-Servicio de M�quinas Expendedoras
-Empresa de Producci�n de Video
+Servicio de Maquinas Expendedoras
+Empresa de Produccion de Video
 Tienda de Papel Tapiz
-Servicio de Gesti�n de Residuos
-Servicio de Impermeabilizaci�n
+Servicio de Gestion de Residuos
+Servicio de Impermeabilizacion
 Servicio de Limpieza de Ventanas
 Servicio de Tintado de Ventanas
-Taller de Carpinter�a
+Taller de Carpinteria
 Tienda de Segunda Mano
 Asesor de Imagen
-Estudio de Animaci�n
+Estudio de Animacion
 Academia de Baile
-Centro de Entretenimiento para Ni�os
-Empresa de Decoraci�n de Eventos
+Centro de Entretenimiento para Ninos
+Empresa de Decoracion de Eventos
 Agencia de Publicidad Digital
 Servicio de Alquiler de Equipos Audiovisuales
 Proveedor de Catering Vegano
-Consultor�a de Sostenibilidad
-Tienda de Productos Org�nicos
-Consultor�a de Recursos Humanos
-Servicio de Traducci�n e Interpretaci�n
+Consultoria de Sostenibilidad
+Tienda de Productos Organicos
+Consultoria de Recursos Humanos
+Servicio de Traduccion e Interpretacion
 Academia de Idiomas
 Agencia de Marketing en Redes Sociales
-Consultor�a de Bienestar Corporativo
-Estudio de Grabaci�n de Podcasts
-Centro de Meditaci�n
+Consultoria de Bienestar Corporativo
+Estudio de Grabacion de Podcasts
+Centro de Meditacion
 Fabricante de Juguetes
-Cl�nica de Terapia Ocupacional
-Servicio de Consultor�a de Negocios
-Tienda de Ropa para Beb�s
-Academia de M�sica
+Clinica de Terapia Ocupacional
+Servicio de Consultoria de Negocios
+Tienda de Ropa para Bebes
+Academia de Musica
 Tienda de Suministros para Fiestas
 Servicio de Alquiler de Equipos de Camping
 Empresa de Desarrollo de Realidad Virtual
 Proveedor de Servicios de Cloud Computing
 Empresa de Ciberseguridad
-Consultor�a de Inteligencia Artificial
-Tienda de Productos Ecol�gicos
+Consultoria de Inteligencia Artificial
+Tienda de Productos Ecologicos
 Servicio de Alquiler de Bicicletas
 Tienda de Equipos de Escalada
-Cl�nica de Rehabilitaci�n Deportiva
-Tienda de Materiales de Construcci�n Sostenibles
-Servicio de Dise�o de Jardines
+Clinica de Rehabilitacion Deportiva
+Tienda de Materiales de Construccion Sostenibles
+Servicio de Diseno de Jardines
 Tienda de Moda Sostenible
-Empresa de Gesti�n de Eventos Corporativos
-Centro de Formaci�n Profesional
-Estudio de Dise�o de Producto
+Empresa de Gestion de Eventos Corporativos
+Centro de Formacion Profesional
+Estudio de Diseno de Producto
 Agencia de Publicidad Exterior
 Proveedor de Servicios de Internet Satelital
-Empresa de Consultor�a en Energ�as Renovables
+Empresa de Consultoria en Energias Renovables
 Centro de Bienestar Integral
-Academia de Rob�tica para Ni�os
-Servicio de Personalizaci�n de Ropa
+Academia de Robotica para Ninos
+Servicio de Personalizacion de Ropa
 Fabricante de Ropa Deportiva
-Empresa de Gesti�n de Residuos Electr�nicos
+Empresa de Gestion de Residuos Electronicos
 Proveedor de Servicios de Telemedicina
 Empresa de Desarrollo de Software Educativo
-Centro de Innovaci�n y Emprendimiento
-Servicio de Asesor�a de Imagen Personal
-Centro de Rehabilitaci�n F�sica
+Centro de Innovacion y Emprendimiento
+Servicio de Asesoria de Imagen Personal
+Centro de Rehabilitacion Fisica
 Agencia de Influencers
 Proveedor de Equipos de Seguridad
-Consultor�a de Estrategia Empresarial
-Tienda de Productos para Mascotas Ex�ticas
-F�brica de Chocolates Artesanales
-Tienda de Productos para el Cuidado de la Piel
-Empresa de Alquiler de Maquinaria Industrial
-Proveedor de Servicios de Streaming
-Estudio de Arquitectura Paisajista
-F�brica de Joyer�a Personalizada
-Tienda de Ropa Vintage
-Centro de Entrenamiento Funcional
-Empresa de Gesti�n de Redes Sociales
-Servicio de Coaching Ejecutivo
-Consultor�a de Marca
-Servicio de Alquiler de Equipos M�dicos
-Tienda de Productos de Belleza Natural
-Agencia de Organizaci�n de Eventos Deportivos
-Centro de Terapias Alternativas
-Consultor�a de Gesti�n del Cambio
-Proveedor de Servicios de Backup y Recuperaci�n de Datos
-Servicio de Alquiler de Trajes
-Estudio de Cine Independiente
-Tienda de Juegos de Mesa
-Tienda de Artesan�as
-Empresa de Fabricaci�n de Bebidas Saludables
-Tienda de Instrumentos Musicales
-Empresa de Alquiler de Equipos para Eventos
-Proveedor de Servicios de Capacitaci�n Online
-Centro de Salud Hol�stica
-Tienda de Materiales para Arte
-Servicio de Paisajismo Acu�tico
+Consultoria de Analisis de Datos
+Empresa de Inteligencia de Negocios
+Servicio de Coaching Financiero
 Proveedor de Servicios de Realidad Aumentada
-Empresa de Limpieza Industrial
-Consultor�a de Ventas
-Centro de Diagn�stico y Tratamiento
-Proveedor de Servicios de E-learning
-Servicio de Alquiler de Equipos de Fotograf�a
-Empresa de Gesti�n de Propiedades Comerciales
-Centro de Terapias Acu�ticas
-Consultor�a de Finanzas Personales
-F�brica de Ropa Hecha a Mano
+Servicio de Desarrollo de Aplicaciones Moviles
+Consultoria de Procesos Empresariales
+Consultoria en Transformacion Digital
+Estudio de Arquitectura Paisajista
+Consultoria en Recursos Naturales
+Servicio de Asesoria de Lactancia Materna
+Proveedor de Productos de Belleza Naturales
+Centro de Yoga y Pilates
+Proveedor de Equipos de Fitness
+Estudio de Animacion 3D
+Academia de Artes Escenicas
+Consultoria en Responsabilidad Social Empresarial
+Proveedor de Tecnologia Educativa
+Estudio de Fotografia y Video de Drones
+Proveedor de Servicios de Blockchain
+Fabricante de Alimentos Veganos
+Consultoria de Transformacion Organizacional
+Proveedor de Soluciones de Movilidad Inteligente
+Consultoria en Estrategia Digital
+Estudio de Ilustracion y Diseño Grafico
+Tienda de Ropa Vintage
+Proveedor de Productos Zero Waste
+Consultoria en Economia Circular
+Servicio de Terapia de Arte
+Academia de Desarrollo de Videojuegos
+Centro de Terapias Alternativas
+Tienda de Productos Artesanales
+Proveedor de Servicios de Automatizacion Industrial
+Centro de Innovacion Tecnologica
+Consultoria de Estrategia Empresarial
+Estudio de Arquitectura Sostenible
+Proveedor de Energía Eólica
+Tienda de Suministros para el Hogar Sostenible
+Consultoria en Biotecnologia
+Academia de Preparacion de Examenes
+Proveedor de Servicios de Seguridad Informatica
+Fabricante de Productos de Higiene Personal Sostenibles
+Consultoria en Innovacion y Desarrollo
+Centro de Tratamiento de Aguas
+Proveedor de Productos de Cuidado Personal Orgánicos
+Servicio de Educacion Ambiental
+Empresa de Gestion de Proyectos de Construccion
+Consultoria en Finanzas Sostenibles
+Proveedor de Servicios de Salud Mental
+Centro de Investigacion y Desarrollo
+Proveedor de Tecnologias de Energía Solar
+Servicio de Reciclaje de Materiales de Construccion
+Consultoria en Tecnologias de la Informacion
+Centro de Evaluacion Psicopedagogica
+Proveedor de Soluciones de Inteligencia Artificial
+Servicio de Restauracion de Muebles
+Consultoria en Gestion de Residuos
+Proveedor de Equipos Medicos
+Centro de Tratamiento de Adicciones
+Empresa de Biotecnologia
 Proveedor de Soluciones de Internet de las Cosas (IoT)
-Tienda de Juguetes Educativos
-Agencia de Talento
-Servicio de Asesor�a de Inversiones Inmobiliarias
-Tienda de Accesorios para Viajes
-Centro de Evaluaci�n y Diagn�stico Psicol�gico
-Servicio de Dise�o de Interiores Comerciales
-Centro de Aprendizaje para Adultos
-Consultor�a de Recursos Humanos y Capacitaci�n
-Empresa de Catering para Eventos Corporativos
-Tienda de Decoraci�n para Bodas
-Centro de Terapia del Lenguaje y Habla
-Tienda de Productos para el Hogar Inteligente
-Empresa de Reciclaje de Pl�sticos
-Centro de Innovaci�n Tecnol�gica
-Proveedor de Servicios de Cloud Computing para Empresas
-Servicio de Limpieza y Desinfecci�n
-Tienda de Ropa de Trabajo
-Centro de Terapia para Adicciones
-Consultor�a de Proyectos de Ingenier�a
-Empresa de Desarrollo de Software para Salud
-Tienda de Accesorios para Autos
-Centro de Terapia Familiar
-Servicio de Planificaci�n de Eventos Culturales
-Proveedor de Servicios de An�lisis de Datos
-Empresa de Gesti�n de Energ�a
-Servicio de Entrenamiento de Habilidades Profesionales
-Centro de Terapia Cognitiva
-Tienda de Art�culos para el Hogar
-Consultor�a de Marketing Estrat�gico
-Proveedor de Servicios de BI (Business Intelligence)
-Empresa de Alquiler de Espacios para Oficinas
-Centro de Terapia F�sica y Ocupacional
-Tienda de Equipos para Deportes Extremos
-Consultor�a de Sostenibilidad y Medio Ambiente
-Empresa de Gesti�n de Ciberseguridad
-Centro de Capacitaci�n T�cnica
-Proveedor de Servicios de ERP
-Estudio de Producci�n Musical
-Consultor�a de Procesos y Mejora Continua
-Tienda de Suplementos Nutricionales
-Empresa de Gesti�n de Proyectos de Construcci�n
-Centro de Educaci�n Infantil
-Proveedor de Soluciones de Automatizaci�n
-Consultor�a de Innovaci�n y Desarrollo
-Tienda de Productos de Cuidado Personal
-Centro de Terapia de Pareja
-Proveedor de Servicios de Dise�o UX/UI
-Empresa de Gesti�n de Residuos Peligrosos
-Consultor�a de Transformaci�n Digital
-Centro de Terapia F�sica Deportiva
-Proveedor de Servicios de Integraci�n de Sistemas
-Tienda de Productos de Higiene
-Centro de Educaci�n para Adultos
-Consultor�a de Estrategia Digital
-Empresa de Alquiler de Equipos de Construcci�n
-Proveedor de Soluciones de Log�stica
-Consultor�a de Gesti�n de Riesgos
-Centro de Rehabilitaci�n Neurol�gica
-Tienda de Productos para Animales
-Proveedor de Servicios de Gesti�n Documental
-Consultor�a de Proyectos Internacionales
-Centro de Terapia de Arte
-Proveedor de Servicios de TI
-Consultor�a de Gesti�n del Talento
-Centro de Evaluaci�n y Desarrollo de Talento
-Proveedor de Servicios de Gesti�n de Activos
-Consultor�a de Sostenibilidad Corporativa
-Centro de Innovaci�n en Salud
-Proveedor de Servicios de Inteligencia Artificial para Empresas
-Consultor�a de Optimizaci�n de Procesos
-Centro de Desarrollo Personal
-Proveedor de Servicios de Automatizaci�n Industrial
-Consultor�a de An�lisis de Datos
-Centro de Innovaci�n en Educaci�n
-Proveedor de Servicios de Consultor�a Estrat�gica
-Consultor�a de Gesti�n del Cambio Organizacional
-Centro de Terapia F�sica Integral
-Proveedor de Servicios de Integraci�n Tecnol�gica
-Consultor�a de Eficiencia Energ�tica
-Centro de Educaci�n Financiera
-Proveedor de Servicios de Marketing Digital
-Consultor�a de Riesgos y Cumplimiento
-Centro de Innovaci�n en Tecnolog�a
-Proveedor de Soluciones de Gesti�n Empresarial
-Consultor�a de Recursos Humanos Estrat�gicos
-Centro de Evaluaci�n de Desempe�o
-Proveedor de Servicios de Gesti�n de Infraestructura
-Consultor�a de Sostenibilidad Ambiental
-Centro de Innovaci�n Empresarial
-Proveedor de Servicios de Gesti�n de Datos
-Consultor�a de Transformaci�n Organizacional
-Centro de Desarrollo de Habilidades
-Proveedor de Soluciones de Software a Medida
-Consultor�a de Gesti�n de Proyectos
-Centro de Innovaci�n en Marketing
-Proveedor de Servicios de Cloud Computing Personalizado
-Consultor�a de Gesti�n de la Cadena de Suministro
-Centro de Desarrollo de Talento Humano
-Proveedor de Soluciones de Tecnolog�a Educativa
-Consultor�a de Estrategia Empresarial
-Centro de Innovaci�n en Recursos Humanos
-Proveedor de Servicios de Gesti�n de Procesos
-Consultor�a de Transformaci�n Digital Empresarial
-Centro de Innovaci�n en Tecnolog�a M�dica
-Proveedor de Soluciones de Gesti�n de Energ�a
-Consultor�a de Estrategia de Negocios
-Centro de Innovaci�n en Energ�as Renovables
+Consultoria en Gestion del Talento
+Estudio de Diseno de Interiores Comerciales
+Proveedor de Servicios de Teletrabajo
+Consultoria en Inteligencia Artificial y Machine Learning
+Centro de Innovacion en Salud
+Proveedor de Equipos de Proteccion Personal
+Consultoria en Gestion de Proyectos
+Servicio de Coaching en Habilidades Blandas
+Proveedor de Servicios de Data Analytics
+Consultoria en Sostenibilidad y Medio Ambiente
+Centro de Formacion en Liderazgo
+Proveedor de Soluciones de Realidad Mixta
+Consultoria en Gestion de la Calidad
+Centro de Terapias Holisticas
+Proveedor de Equipos de Diagnostico Medico
+Consultoria en Transformacion de Negocios
+Centro de Rehabilitacion Neurologica
+Proveedor de Tecnologias de Almacenamiento de Energía
+Servicio de Apoyo Educativo
+Consultoria en Eficiencia Energetica
+Centro de Tratamiento de Aguas Residuales
+Proveedor de Productos de Limpieza Ecologicos
+Consultoria en Salud Ocupacional
+Centro de Innovacion en Agricultura
+Proveedor de Tecnologias de Riego Inteligente
+Consultoria en Gobernanza Corporativa
+Centro de Formacion en Marketing Digital
+Proveedor de Soluciones de Ciberseguridad
+Consultoria en Gestion de la Innovacion
+Centro de Investigacion en Energías Renovables
+Proveedor de Productos de Higiene Industrial
+Consultoria en Gestion de la Cadena de Suministro
+Centro de Terapias Naturales
+Proveedor de Soluciones de Seguridad
+Consultoria en Estrategia de Negocios
+Centro de Investigacion de Mercados
+Proveedor de Productos Biodegradables
+Consultoria en Gestion del Cambio
+Centro de Formacion en Inteligencia Artificial
+Proveedor de Soluciones de Movilidad Eléctrica
+Consultoria en Desarrollo Organizacional
+Centro de Investigacion y Desarrollo Agropecuario
+Proveedor de Equipos de Generación de Energía
+Consultoria en Logistica y Distribucion
+Centro de Tratamiento de Residuos Peligrosos
+Proveedor de Productos para el Cuidado del Medio Ambiente
+Consultoria en Gestion de Riesgos
+Centro de Investigacion en Biotecnologia
+Proveedor de Tecnologias para la Educacion
+Consultoria en Gestion de Proyectos Industriales
+Centro de Innovacion en Tecnologia Medica
+Proveedor de Equipos de Monitoreo Ambiental
+Consultoria en Desarrollo de Productos
+Centro de Formacion en Sostenibilidad
+Proveedor de Soluciones de Logistica
+Consultoria en Gestion de Infraestructuras
+Centro de Investigacion en Cambio Climatico
+Proveedor de Productos para el Cuidado Personal
+Consultoria en Estrategia de Mercados
+Centro de Innovacion en Transporte
+Proveedor de Soluciones de Gestion de Residuos
+Consultoria en Planificacion Urbana
+Centro de Investigacion en Ciencias Sociales
+Proveedor de Equipos de Energia Renovable
+Consultoria en Gestion de la Innovacion Empresarial
+Centro de Investigacion en Tecnologias Limpias
+Centro de Innovacion en Educacion Superior
+Proveedor de Soluciones de Automatizacion de Oficinas
+Consultoria en Gestion de Recursos Naturales
+Centro de Terapia Ocupacional
+Proveedor de Servicios de Cloud Computing Empresarial
+Consultoria en Desarrollo Sostenible
+Centro de Innovacion en Inteligencia Artificial
+Proveedor de Equipos de Energia Geotermica
+Consultoria en Comunicacion Estrategica
+Centro de Investigacion en Salud Publica
+Proveedor de Productos de Agricultura Sostenible
+Consultoria en Gestion de Talento Humano
+Centro de Terapia del Comportamiento
+Proveedor de Soluciones de Software Personalizado
+Consultoria en Estrategia de Innovacion
+Centro de Investigacion en Tecnologias de la Informacion
+Proveedor de Servicios de Blockchain para Empresas
+Consultoria en Sostenibilidad Corporativa
+Centro de Desarrollo Infantil
+Proveedor de Productos de Belleza Veganos
+Consultoria en Gestion de la Cadena de Valor
+Centro de Formacion en Ciencias de Datos
+Proveedor de Tecnologias de Monitoreo de la Salud
+Consultoria en Estrategia de Negocios Internacionales
+Centro de Innovacion en Biociencias
+Proveedor de Soluciones de Seguridad Informatica
+Consultoria en Transformacion Cultural
+Centro de Investigacion en Ingenieria
+Proveedor de Equipos de Energia Limpia
+Consultoria en Gestion del Conocimiento
+Centro de Terapias Psicologicas
+Proveedor de Servicios de Inteligencia de Negocios
+Consultoria en Gestion Ambiental
+Centro de Formacion en Innovacion
+Proveedor de Productos de Cuidado Personal Sostenibles
+Consultoria en Estrategia de Marketing Digital
+Centro de Innovacion en Biotecnologia
+Proveedor de Soluciones de Automatizacion del Hogar
+Consultoria en Desarrollo de Talento
+Centro de Investigacion en Psicologia
+Proveedor de Servicios de Telemedicina
+Consultoria en Eficiencia Operativa
+Centro de Formacion en Tecnologias Digitales
+Proveedor de Soluciones de Energias Renovables
+Consultoria en Gestion de Proyectos de TI
+Centro de Innovacion en Ciencias de la Salud
+Proveedor de Equipos de Monitoreo de Calidad del Aire
+Consultoria en Estrategia Empresarial Global
+Centro de Investigacion en Desarrollo Sostenible
+Proveedor de Productos para el Cuidado del Agua
+Consultoria en Planificacion Estrategica
+Centro de Formacion en Habilidades Digitales
+Proveedor de Servicios de Inteligencia Artificial para Salud
+Consultoria en Desarrollo de Software
+Centro de Innovacion en Gestion Empresarial
+Proveedor de Soluciones de Movilidad Sostenible
+Consultoria en Mejora Continua
+Centro de Investigacion en Ciencias Ambientales
+Proveedor de Tecnologias de Gestion de Residuos
+Consultoria en Estrategia de Recursos Humanos
+Centro de Terapia Fisica y Rehabilitacion
+Proveedor de Soluciones de Agricultura Inteligente
+Consultoria en Gestion de Cambio Organizacional
+Centro de Formacion en Ciberseguridad
+Proveedor de Equipos de Energia Solar
+Consultoria en Desarrollo Personal
+Centro de Investigacion en Energias Alternativas
+Proveedor de Servicios de Big Data
+Consultoria en Sostenibilidad y Medio Ambiente
+Centro de Innovacion en Tecnologias Agricolas
+Proveedor de Productos para el Cuidado de la Salud
+Consultoria en Estrategia Digital
+Centro de Terapias Alternativas y Complementarias
+Proveedor de Soluciones de Internet de las Cosas para Empresas
+Consultoria en Gestion de Proyectos de Construccion
+Centro de Investigacion en Innovacion Empresarial
+Proveedor de Productos de Energia Sostenible
+Consultoria en Transformacion Digital
+Centro de Formacion en Marketing Estrategico
+Proveedor de Servicios de Inteligencia Artificial para Negocios
+Consultoria en Planificacion Financiera
+Centro de Innovacion en Tecnologias de la Salud
+Proveedor de Soluciones de Gestion de la Energia
+Consultoria en Desarrollo de Habilidades Blandas
+Centro de Investigacion en Ciencias del Comportamiento
+Proveedor de Equipos de Seguridad Informatica
+Consultoria en Estrategia de Innovacion
+Centro de Formacion en Desarrollo Personal
+Proveedor de Servicios de Blockchain y Criptomonedas
+Consultoria en Gestion del Desempeño
+Centro de Innovacion en Tecnologias Medicas
+Proveedor de Soluciones de Automatizacion de Procesos
+Consultoria en Desarrollo de Talento Humano
+Centro de Investigacion en Ciencias Sociales Aplicadas
+Proveedor de Tecnologias de Salud Digital
+Consultoria en Estrategia de Marketing
+Centro de Formacion en Tecnologias de la Informacion
+Proveedor de Equipos de Monitoreo Ambiental
+Consultoria en Gestion de la Innovacion
+Centro de Innovacion en Biomedicina
+Proveedor de Productos de Higiene Personal Naturales
+Consultoria en Estrategia de Negocios Digitales
+Centro de Investigacion en Tecnologias Educativas
+Proveedor de Soluciones de Energias Renovables para el Hogar
+Consultoria en Planificacion Urbana Sostenible
+Centro de Terapias para el Desarrollo Infantil
 Proveedor de Servicios de Ciberseguridad Empresarial
-Consultor�a de Gesti�n de Innovaci�n
-Centro de Desarrollo de Soluciones Tecnol�gicas
-Proveedor de Servicios de Automatizaci�n de Procesos
-Consultor�a de Innovaci�n y Tecnolog�a
-Centro de Desarrollo de Productos
-Proveedor de Servicios de Consultor�a en Innovaci�n
-Consultor�a de Estrategia de Innovaci�n
-Centro de Innovaci�n en Negocios
-Proveedor de Servicios de Gesti�n del Cambio
-Consultor�a de Desarrollo Organizacional
-Centro de Desarrollo de Negocios
-Proveedor de Soluciones de Innovaci�n
-Consultor�a de Estrategia de Marketing
-Centro de Innovaci�n en Procesos
-Proveedor de Servicios de Optimizaci�n de Procesos
-Consultor�a de Gesti�n del Conocimiento
-Centro de Innovaci�n en Estrategia
-Proveedor de Servicios de Consultor�a en Procesos
-Consultor�a de Estrategia de Procesos
-Centro de Desarrollo de Procesos
-Proveedor de Soluciones de Consultor�a Empresarial
-Consultor�a de Estrategia de Proyectos
-Centro de Innovaci�n en Proyectos
-Proveedor de Servicios de Consultor�a en Proyectos
-Consultor�a de Gesti�n de Proyectos Estrat�gicos
-Centro de Desarrollo de Proyectos
-Proveedor de Soluciones de Consultor�a en Gesti�n
-Consultor�a de Estrategia de Gesti�n
-Centro de Innovaci�n en Gesti�n
-Proveedor de Servicios de Consultor�a en Gesti�n de Proyectos
-Consultor�a de Gesti�n Estrat�gica
-Centro de Desarrollo de Gesti�n
-Proveedor de Soluciones de Gesti�n Empresarial
-Consultor�a de Estrategia Empresarial
-Centro de Innovaci�n en Estrategia Empresarial
-Proveedor de Servicios de Consultor�a en Estrategia Empresarial
-Consultor�a de Gesti�n de Estrategia
-Centro de Desarrollo de Estrategia
-Proveedor de Soluciones de Estrategia Empresarial
-Consultor�a de Estrategia de Innovaci�n Empresarial
-Centro de Innovaci�n en Estrategia de Innovaci�n
-Proveedor de Servicios de Consultor�a en Innovaci�n Empresarial
-Consultor�a de Gesti�n de Innovaci�n Empresarial
-Centro de Desarrollo de Innovaci�n Empresarial
-Proveedor de Soluciones de Innovaci�n Empresarial
+Consultoria en Desarrollo Organizacional
+Centro de Formacion en Habilidades de Liderazgo
+Proveedor de Productos de Belleza Sostenibles
+Consultoria en Estrategia de Proyectos
+Centro de Innovacion en Ciencias de Datos
+Proveedor de Equipos de Energia Eolica
+Consultoria en Gestion del Cambio Digital
+Centro de Investigacion en Ciencias Naturales
+Proveedor de Soluciones de Agricultura Vertical
+Consultoria en Estrategia Empresarial para PYMES
+Centro de Terapia Familiar y de Pareja
+Proveedor de Servicios de Analisis de Datos
+Consultoria en Desarrollo Sostenible
+Centro de Formacion en Habilidades Sociales
+Proveedor de Productos de Higiene Industrial Sostenibles
+Consultoria en Estrategia de Recursos Humanos
+Centro de Innovacion en Ciencias de la Ingenieria
+Proveedor de Soluciones de Gestion de Recursos Hídricos
+Consultoria en Transformacion de Procesos
+Centro de Investigacion en Tecnologia Blockchain
+Proveedor de Tecnologias de Monitoreo de Salud
+Consultoria en Estrategia Empresarial y Digital
+Centro de Terapias Psicologicas y Psiquiatricas
+Proveedor de Servicios de Cloud Computing para la Salud
+Consultoria en Planificacion de Recursos Empresariales
+Centro de Formacion en Inteligencia Emocional
+Proveedor de Soluciones de Movilidad Electrica para Empresas
+Consultoria en Gestion de Proyectos de Innovacion
+Centro de Innovacion en Energia Sostenible
+Proveedor de Productos de Higiene Personal Veganos
+Consultoria en Desarrollo de Software para Empresas
+Centro de Investigacion en Tecnologias Industriales
+Proveedor de Soluciones de Seguridad Informatica Empresarial
+Consultoria en Estrategia de Innovacion y Desarrollo
+Centro de Formacion en Habilidades Digitales
+Proveedor de Tecnologias de Gestion Ambiental
+Consultoria en Transformacion de Negocios
+Centro de Terapia Ocupacional y Fisica
+Proveedor de Servicios de Inteligencia de Negocios
+Consultoria en Planificacion Financiera y Estrategica
+Centro de Innovacion en Ciencias de la Vida
+Proveedor de Equipos de Energia Solar para Empresas
