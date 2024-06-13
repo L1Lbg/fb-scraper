@@ -1,0 +1,505 @@
+Firma de Contabilidad
+Agencia de Publicidad
+Concesionario de Equipos Agr�colas
+Tienda de Antig�edades
+Tienda de Ropa
+Servicio de Reparaci�n de Electrodom�sticos
+Firma de Arquitectura
+Galer�a de Arte
+Taller de Carrocer�a
+Concesionario de Autom�viles
+Taller de Reparaci�n de Autom�viles
+Panader�a
+Banco
+Bar
+Barber�a
+Sal�n de Belleza
+Bed and Breakfast
+Librer�a
+Boutique
+Cervecer�a
+Contratista de Construcci�n
+Carnicer�a
+Cafeter�a
+Servicio de Alquiler de Coches
+Lavado de Coches
+Servicio de Carpinter�a
+Servicio de Catering
+Cl�nica Quiropr�ctica
+Servicio de Limpieza
+Servicio de Reparaci�n de Computadoras
+Firma de Consultor�a
+Empresa de Construcci�n
+Cl�nica de Cirug�a Est�tica
+Guarder�a
+Cl�nica Dental
+Grandes Almacenes
+Tintorer�a
+Tienda de Electr�nica
+Firma de Ingenier�a
+Servicio de Planificaci�n de Eventos
+Mercado de Agricultores
+Firma de Asesor�a Financiera
+Gimnasio
+Florister�a
+Tienda de Muebles
+Gasolinera
+Supermercado
+Peluquer�a
+Ferreter�a
+Cl�nica de Salud
+Tienda de Decoraci�n del Hogar
+Tienda de Mejoras para el Hogar
+Hotel
+Agencia de Seguros
+Firma de Dise�o de Interiores
+Joyer�a
+Servicio de Paisajismo
+Servicio de Lavander�a
+Firma de Abogados
+Cerrajero
+Agencia de Marketing
+Cl�nica de Terapia de Masaje
+Mec�nico
+Cl�nica M�dica
+Tienda de Tel�fonos M�viles
+Empresa de Mudanzas
+Tienda de M�sica
+Sal�n de U�as
+Cl�nica de Optometr�a
+Servicio de Control de Plagas
+Servicio de Peluquer�a para Mascotas
+Tienda de Mascotas
+Farmacia
+Estudio de Fotograf�a
+Servicio de Fontaner�a
+Servicio de Impresi�n
+Escuela Privada
+Agencia Inmobiliaria
+Agencia de Reclutamiento
+Restaurante
+Servicio de Techado
+Escuela
+Servicio de Seguridad
+Zapater�a
+Empresa de Desarrollo de Software
+Spa
+Tienda de Art�culos Deportivos
+Servicio de Sastrer�a
+Estudio de Tatuajes
+Servicio de Taxi
+Firma de Consultor�a Tecnol�gica
+Tienda de Neum�ticos
+Agencia de Turismo
+Jugueter�a
+Agencia de Viajes
+Cl�nica Veterinaria
+Agencia de Dise�o Web
+Servicio de Planificaci�n de Bodas
+Bodega
+Estudio de Yoga
+Empresa Aeroespacial
+Refugio de Animales
+Servicio de Contestaci�n Telef�nica
+Tienda de Suministros de Arte
+Casa de Subastas
+Reparaci�n de Cristales de Autom�viles
+Servicio de Fianzas
+Tienda de Globos
+Sal�n de Banquetes
+Servicio de Bartender
+Servicio de Remodelaci�n de Ba�os
+Tienda de Reparaci�n de Bicicletas
+Tienda de Cortinas y Persianas
+Concesionario de Barcos
+Servicio de Contabilidad
+Fabricaci�n de Muebles
+Centro de Llamadas
+Tienda de Velas
+Tienda de Dulces
+Servicio de Limpieza de Alfombras
+Tienda de Alfombras
+Servicio de Adelantos en Efectivo
+Reparaci�n de Tel�fonos Celulares
+Tienda de Quesos
+Chocolater�a
+Granja de �rboles de Navidad
+Servicio de Reparaci�n de Relojes
+Numism�tica
+Agencia de Cobros
+Tienda de Computadoras
+Contratista de Concreto
+Alquiler de Equipos de Construcci�n
+Tienda de Conveniencia
+Servicio de Redacci�n
+Servicio de Mensajer�a
+Servicio de Asesor�a de Cr�dito
+Estudio de Danza
+Servicio de Construcci�n de Terrazas
+Servicio de Entrega
+Nutricionista
+Servicio de DJ
+Servicio de Entrenamiento de Perros
+Escuela de Conducci�n
+Tienda de Comercio Electr�nico
+Electricista
+Servicio de Bordado
+Agencia de Empleo
+Firma de Consultor�a Ambiental
+Servicio de Planificaci�n Patrimonial
+Lugar de Eventos
+Firma de B�squeda Ejecutiva
+Servicio de Expediciones
+Tienda de Telas
+Servicio de Asesor�a Familiar
+Servicio de Instalaci�n de Cercas
+Compa��a de Producci�n de Pel�culas
+Servicio de Protecci�n Contra Incendios
+Charter de Pesca
+Tienda de Pisos
+Cami�n de Comida
+Servicio de Enmarcado
+Servicio de Redacci�n Freelance
+Funeraria
+Reparaci�n de Puertas de Garaje
+Centro de Jardiner�a
+Tienda de Regalos
+Servicio de Reparaci�n de Vidrios
+Campo de Golf
+Agencia de Dise�o Gr�fico
+Invernadero
+Servicio de Limpieza de Canalones
+Servicio de Mantenimiento
+Servicio de Calefacci�n y Refrigeraci�n
+Tienda de Medicina Herbaria
+Servicio de Cuidado de la Salud a Domicilio
+Establo de Alojamiento de Caballos
+Servicio de HVAC
+Cl�nica de Hipnoterapia
+Negocio de Importaci�n/Exportaci�n
+Servicio de Paisajismo de Interiores
+Proveedor de Servicios de Internet
+Firma de Inversiones
+Servicio de Soporte T�cnico
+Servicio de Eliminaci�n de Basura
+Servicio de Remodelaci�n de Cocinas
+Servicio de Cuidado de C�sped
+Coach de Vida
+Tienda de Iluminaci�n
+Servicio de Limusinas
+Servicio de Cerrajer�a
+Revista
+Servicio de Correo
+Empresa de Manufactura
+Estudio de Artes Marciales
+Tienda de Colchones
+Servicio de Facturaci�n M�dica
+Servicio de Fabricaci�n de Metales
+Microcervecer�a
+Agencia de Modelos
+Corredor de Hipotecas
+Concesionario de Motocicletas
+Servicio de Mudanza y Almacenamiento
+Escuela de M�sica
+Organizaci�n Sin Fines de Lucro
+Residencia de Ancianos
+Tienda de Suministros de Oficina
+Servicio de Empaque
+Tienda de Pintura
+Servicio de Pintura
+Servicio de Alquiler de Fiestas
+Servicio de Pavimentaci�n
+Servicio de N�mina
+Chef Personal
+Servicio de Alojamiento para Mascotas
+Servicio de Cuidado de Mascotas
+Cl�nica de Terapia F�sica
+Estudio de Piercing
+Vivero de Plantas
+Servicio de Limpieza de Piscinas
+Empresa de Administraci�n de Propiedades
+Firma de Relaciones P�blicas
+Editorial
+Servicio de Pruebas de Rad�n
+Estudio de Grabaci�n
+Centro de Reciclaje
+Centro de Sanaci�n Reiki
+Servicio de Remodelaci�n
+Concesionario de RV
+Tienda de S�ndwiches
+Servicio de Serigraf�a
+Servicio de Fosas S�pticas
+Servicio de Alcantarillado
+Tienda de Se�alizaci�n
+Tienda de Skate
+Empresa de Energ�a Solar
+Cl�nica de Terapia del Habla
+Instalaci�n de Almac�n
+Contratista de Estuco
+Servicio de Topograf�a
+Instalaci�n de Piscinas
+Sal�n de Bronceado
+Servicio de Impuestos
+Empresa de Telecomunicaciones
+Servicio de Remolque
+Servicio de �rboles
+Empresa de Transporte
+Tienda de Uniformes
+Servicio de Tapicer�a
+Alquiler de Vacaciones
+Servicio de M�quinas Expendedoras
+Empresa de Producci�n de Video
+Tienda de Papel Tapiz
+Servicio de Gesti�n de Residuos
+Servicio de Impermeabilizaci�n
+Servicio de Limpieza de Ventanas
+Servicio de Tintado de Ventanas
+Taller de Carpinter�a
+Tienda de Segunda Mano
+Asesor de Imagen
+Estudio de Animaci�n
+Academia de Baile
+Centro de Entretenimiento para Ni�os
+Empresa de Decoraci�n de Eventos
+Agencia de Publicidad Digital
+Servicio de Alquiler de Equipos Audiovisuales
+Proveedor de Catering Vegano
+Consultor�a de Sostenibilidad
+Tienda de Productos Org�nicos
+Consultor�a de Recursos Humanos
+Servicio de Traducci�n e Interpretaci�n
+Academia de Idiomas
+Agencia de Marketing en Redes Sociales
+Consultor�a de Bienestar Corporativo
+Estudio de Grabaci�n de Podcasts
+Centro de Meditaci�n
+Fabricante de Juguetes
+Cl�nica de Terapia Ocupacional
+Servicio de Consultor�a de Negocios
+Tienda de Ropa para Beb�s
+Academia de M�sica
+Tienda de Suministros para Fiestas
+Servicio de Alquiler de Equipos de Camping
+Empresa de Desarrollo de Realidad Virtual
+Proveedor de Servicios de Cloud Computing
+Empresa de Ciberseguridad
+Consultor�a de Inteligencia Artificial
+Tienda de Productos Ecol�gicos
+Servicio de Alquiler de Bicicletas
+Tienda de Equipos de Escalada
+Cl�nica de Rehabilitaci�n Deportiva
+Tienda de Materiales de Construcci�n Sostenibles
+Servicio de Dise�o de Jardines
+Tienda de Moda Sostenible
+Empresa de Gesti�n de Eventos Corporativos
+Centro de Formaci�n Profesional
+Estudio de Dise�o de Producto
+Agencia de Publicidad Exterior
+Proveedor de Servicios de Internet Satelital
+Empresa de Consultor�a en Energ�as Renovables
+Centro de Bienestar Integral
+Academia de Rob�tica para Ni�os
+Servicio de Personalizaci�n de Ropa
+Fabricante de Ropa Deportiva
+Empresa de Gesti�n de Residuos Electr�nicos
+Proveedor de Servicios de Telemedicina
+Empresa de Desarrollo de Software Educativo
+Centro de Innovaci�n y Emprendimiento
+Servicio de Asesor�a de Imagen Personal
+Centro de Rehabilitaci�n F�sica
+Agencia de Influencers
+Proveedor de Equipos de Seguridad
+Consultor�a de Estrategia Empresarial
+Tienda de Productos para Mascotas Ex�ticas
+F�brica de Chocolates Artesanales
+Tienda de Productos para el Cuidado de la Piel
+Empresa de Alquiler de Maquinaria Industrial
+Proveedor de Servicios de Streaming
+Estudio de Arquitectura Paisajista
+F�brica de Joyer�a Personalizada
+Tienda de Ropa Vintage
+Centro de Entrenamiento Funcional
+Empresa de Gesti�n de Redes Sociales
+Servicio de Coaching Ejecutivo
+Consultor�a de Marca
+Servicio de Alquiler de Equipos M�dicos
+Tienda de Productos de Belleza Natural
+Agencia de Organizaci�n de Eventos Deportivos
+Centro de Terapias Alternativas
+Consultor�a de Gesti�n del Cambio
+Proveedor de Servicios de Backup y Recuperaci�n de Datos
+Servicio de Alquiler de Trajes
+Estudio de Cine Independiente
+Tienda de Juegos de Mesa
+Tienda de Artesan�as
+Empresa de Fabricaci�n de Bebidas Saludables
+Tienda de Instrumentos Musicales
+Empresa de Alquiler de Equipos para Eventos
+Proveedor de Servicios de Capacitaci�n Online
+Centro de Salud Hol�stica
+Tienda de Materiales para Arte
+Servicio de Paisajismo Acu�tico
+Proveedor de Servicios de Realidad Aumentada
+Empresa de Limpieza Industrial
+Consultor�a de Ventas
+Centro de Diagn�stico y Tratamiento
+Proveedor de Servicios de E-learning
+Servicio de Alquiler de Equipos de Fotograf�a
+Empresa de Gesti�n de Propiedades Comerciales
+Centro de Terapias Acu�ticas
+Consultor�a de Finanzas Personales
+F�brica de Ropa Hecha a Mano
+Proveedor de Soluciones de Internet de las Cosas (IoT)
+Tienda de Juguetes Educativos
+Agencia de Talento
+Servicio de Asesor�a de Inversiones Inmobiliarias
+Tienda de Accesorios para Viajes
+Centro de Evaluaci�n y Diagn�stico Psicol�gico
+Servicio de Dise�o de Interiores Comerciales
+Centro de Aprendizaje para Adultos
+Consultor�a de Recursos Humanos y Capacitaci�n
+Empresa de Catering para Eventos Corporativos
+Tienda de Decoraci�n para Bodas
+Centro de Terapia del Lenguaje y Habla
+Tienda de Productos para el Hogar Inteligente
+Empresa de Reciclaje de Pl�sticos
+Centro de Innovaci�n Tecnol�gica
+Proveedor de Servicios de Cloud Computing para Empresas
+Servicio de Limpieza y Desinfecci�n
+Tienda de Ropa de Trabajo
+Centro de Terapia para Adicciones
+Consultor�a de Proyectos de Ingenier�a
+Empresa de Desarrollo de Software para Salud
+Tienda de Accesorios para Autos
+Centro de Terapia Familiar
+Servicio de Planificaci�n de Eventos Culturales
+Proveedor de Servicios de An�lisis de Datos
+Empresa de Gesti�n de Energ�a
+Servicio de Entrenamiento de Habilidades Profesionales
+Centro de Terapia Cognitiva
+Tienda de Art�culos para el Hogar
+Consultor�a de Marketing Estrat�gico
+Proveedor de Servicios de BI (Business Intelligence)
+Empresa de Alquiler de Espacios para Oficinas
+Centro de Terapia F�sica y Ocupacional
+Tienda de Equipos para Deportes Extremos
+Consultor�a de Sostenibilidad y Medio Ambiente
+Empresa de Gesti�n de Ciberseguridad
+Centro de Capacitaci�n T�cnica
+Proveedor de Servicios de ERP
+Estudio de Producci�n Musical
+Consultor�a de Procesos y Mejora Continua
+Tienda de Suplementos Nutricionales
+Empresa de Gesti�n de Proyectos de Construcci�n
+Centro de Educaci�n Infantil
+Proveedor de Soluciones de Automatizaci�n
+Consultor�a de Innovaci�n y Desarrollo
+Tienda de Productos de Cuidado Personal
+Centro de Terapia de Pareja
+Proveedor de Servicios de Dise�o UX/UI
+Empresa de Gesti�n de Residuos Peligrosos
+Consultor�a de Transformaci�n Digital
+Centro de Terapia F�sica Deportiva
+Proveedor de Servicios de Integraci�n de Sistemas
+Tienda de Productos de Higiene
+Centro de Educaci�n para Adultos
+Consultor�a de Estrategia Digital
+Empresa de Alquiler de Equipos de Construcci�n
+Proveedor de Soluciones de Log�stica
+Consultor�a de Gesti�n de Riesgos
+Centro de Rehabilitaci�n Neurol�gica
+Tienda de Productos para Animales
+Proveedor de Servicios de Gesti�n Documental
+Consultor�a de Proyectos Internacionales
+Centro de Terapia de Arte
+Proveedor de Servicios de TI
+Consultor�a de Gesti�n del Talento
+Centro de Evaluaci�n y Desarrollo de Talento
+Proveedor de Servicios de Gesti�n de Activos
+Consultor�a de Sostenibilidad Corporativa
+Centro de Innovaci�n en Salud
+Proveedor de Servicios de Inteligencia Artificial para Empresas
+Consultor�a de Optimizaci�n de Procesos
+Centro de Desarrollo Personal
+Proveedor de Servicios de Automatizaci�n Industrial
+Consultor�a de An�lisis de Datos
+Centro de Innovaci�n en Educaci�n
+Proveedor de Servicios de Consultor�a Estrat�gica
+Consultor�a de Gesti�n del Cambio Organizacional
+Centro de Terapia F�sica Integral
+Proveedor de Servicios de Integraci�n Tecnol�gica
+Consultor�a de Eficiencia Energ�tica
+Centro de Educaci�n Financiera
+Proveedor de Servicios de Marketing Digital
+Consultor�a de Riesgos y Cumplimiento
+Centro de Innovaci�n en Tecnolog�a
+Proveedor de Soluciones de Gesti�n Empresarial
+Consultor�a de Recursos Humanos Estrat�gicos
+Centro de Evaluaci�n de Desempe�o
+Proveedor de Servicios de Gesti�n de Infraestructura
+Consultor�a de Sostenibilidad Ambiental
+Centro de Innovaci�n Empresarial
+Proveedor de Servicios de Gesti�n de Datos
+Consultor�a de Transformaci�n Organizacional
+Centro de Desarrollo de Habilidades
+Proveedor de Soluciones de Software a Medida
+Consultor�a de Gesti�n de Proyectos
+Centro de Innovaci�n en Marketing
+Proveedor de Servicios de Cloud Computing Personalizado
+Consultor�a de Gesti�n de la Cadena de Suministro
+Centro de Desarrollo de Talento Humano
+Proveedor de Soluciones de Tecnolog�a Educativa
+Consultor�a de Estrategia Empresarial
+Centro de Innovaci�n en Recursos Humanos
+Proveedor de Servicios de Gesti�n de Procesos
+Consultor�a de Transformaci�n Digital Empresarial
+Centro de Innovaci�n en Tecnolog�a M�dica
+Proveedor de Soluciones de Gesti�n de Energ�a
+Consultor�a de Estrategia de Negocios
+Centro de Innovaci�n en Energ�as Renovables
+Proveedor de Servicios de Ciberseguridad Empresarial
+Consultor�a de Gesti�n de Innovaci�n
+Centro de Desarrollo de Soluciones Tecnol�gicas
+Proveedor de Servicios de Automatizaci�n de Procesos
+Consultor�a de Innovaci�n y Tecnolog�a
+Centro de Desarrollo de Productos
+Proveedor de Servicios de Consultor�a en Innovaci�n
+Consultor�a de Estrategia de Innovaci�n
+Centro de Innovaci�n en Negocios
+Proveedor de Servicios de Gesti�n del Cambio
+Consultor�a de Desarrollo Organizacional
+Centro de Desarrollo de Negocios
+Proveedor de Soluciones de Innovaci�n
+Consultor�a de Estrategia de Marketing
+Centro de Innovaci�n en Procesos
+Proveedor de Servicios de Optimizaci�n de Procesos
+Consultor�a de Gesti�n del Conocimiento
+Centro de Innovaci�n en Estrategia
+Proveedor de Servicios de Consultor�a en Procesos
+Consultor�a de Estrategia de Procesos
+Centro de Desarrollo de Procesos
+Proveedor de Soluciones de Consultor�a Empresarial
+Consultor�a de Estrategia de Proyectos
+Centro de Innovaci�n en Proyectos
+Proveedor de Servicios de Consultor�a en Proyectos
+Consultor�a de Gesti�n de Proyectos Estrat�gicos
+Centro de Desarrollo de Proyectos
+Proveedor de Soluciones de Consultor�a en Gesti�n
+Consultor�a de Estrategia de Gesti�n
+Centro de Innovaci�n en Gesti�n
+Proveedor de Servicios de Consultor�a en Gesti�n de Proyectos
+Consultor�a de Gesti�n Estrat�gica
+Centro de Desarrollo de Gesti�n
+Proveedor de Soluciones de Gesti�n Empresarial
+Consultor�a de Estrategia Empresarial
+Centro de Innovaci�n en Estrategia Empresarial
+Proveedor de Servicios de Consultor�a en Estrategia Empresarial
+Consultor�a de Gesti�n de Estrategia
+Centro de Desarrollo de Estrategia
+Proveedor de Soluciones de Estrategia Empresarial
+Consultor�a de Estrategia de Innovaci�n Empresarial
+Centro de Innovaci�n en Estrategia de Innovaci�n
+Proveedor de Servicios de Consultor�a en Innovaci�n Empresarial
+Consultor�a de Gesti�n de Innovaci�n Empresarial
+Centro de Desarrollo de Innovaci�n Empresarial
+Proveedor de Soluciones de Innovaci�n Empresarial

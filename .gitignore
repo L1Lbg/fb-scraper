@@ -1,0 +1,9 @@
+test.py
+db.sqlite3
+.txt*
+.env
+getaverage.py
+manuallysend.py
+__pycache__
+mail_sender.pyw
+create_emails.py
