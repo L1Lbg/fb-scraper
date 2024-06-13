@@ -1,6 +1,7 @@
 import sqlite3
 import time
 import os
+from pathlib import Path
 
 def resetdb():
     os.chdir(Path(__file__).parent.absolute().parent.absolute())
