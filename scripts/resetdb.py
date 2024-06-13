@@ -25,7 +25,7 @@ def resetdb():
     cur.execute("""
         CREATE TABLE businessType
         (   
-            'name','used','hits',
+            'name','used','leads',
 
             CONSTRAINT unique_name UNIQUE (name)
         )
