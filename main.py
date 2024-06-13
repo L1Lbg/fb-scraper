@@ -28,7 +28,12 @@ ppp = 0.000157 # ESTIMATED PROFILES PER PIXEL
 EMAIL = os.getenv('FB_USER')
 PASS = os.getenv('FB_PASS')
 
-length = int(sys.argv[1]) # BUSINESS CATEGORIES SEARCHED THROUGH
+try:
+        length = int(sys.argv[1]) # BUSINESS CATEGORIES SEARCHED THROUGH
+except:
+        print(Fore.RED + "You have to enter a number after the argument 'main.py' (Example: " + Fore.YELLOW + "'python main.py 10'" + Fore.RED + ")" + Fore.RESET)
+        exit()
+
 lvl = 20 * 50_000 # PIXELS TO SCROLL IN QUERY PAGE
 
 biz_types_used = list()
