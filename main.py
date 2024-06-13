@@ -112,7 +112,7 @@ def main(length, worker_id):
 if __name__ == '__main__':
         # DO A REPARTITION OF THREADS IN AN EQUAL WAY
         list_of = list()
-        threads_num = 6
+        threads_num = 4
 
         et = (lvl * ppp * tt * length) / threads_num
         print(f"{Fore.BLUE}[INFO] ETC: {int(et/60)} minute(s) {int(et%60)} second(s).")
